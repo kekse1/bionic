@@ -13,7 +13,7 @@ It's there in my [lib.js repository](https://github.com/kekse1/lib.js/), the pat
 [utility/bionic.js](https://github.com/kekse1/lib.js/blob/git/lib.js/utility/bionic.js).
 
 # Contact
-<img src="https://kekse.biz/github.php?override=github:bionic&draw&text=dump@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
+<img src="https://kekse.biz/github.php?override=github:bionic&draw&text=bionic@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](./COPYRIGHT.txt),
