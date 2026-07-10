@@ -3,17 +3,25 @@
 # Bionic Reading
 It's **not** my invention! The original link is [bionic-reading.com](https://bionic-reading.com/).
 
+<br><br>
+
 ## Status
 I already implemented my own interpretation in my [lib.js](https://github.com/kekse1/lib.js/),
 and now I'm going to do it again for my [v4](https://github.com/kekse1/v4/). This time I will
 also publish it here in this repository. But it stays /TODO/.
 
+<br>
+
 ### Original version
 It's there in my [lib.js repository](https://github.com/kekse1/lib.js/), the path there is
 [utility/bionic.js](https://github.com/kekse1/lib.js/blob/git/lib.js/utility/bionic.js).
 
+<br><br><br>
+
 # Contact
 <img src="https://kekse.biz/github.php?override=github:bionic&draw&text=bionic@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
+
+<br>
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](./COPYRIGHT.txt),
